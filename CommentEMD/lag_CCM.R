@@ -1,7 +1,7 @@
 #####################################################################################################3
 # R code for lagged CCM analysis
 # 2021-07-29, Chun-Wei Chang
-# Empirical time series are open-access and downloaded from the websites offered in Yang et al. (2019) Nature Communications
+# Empirical time series are open-access and downloaded from the links offered in Yang et al. (2018) Nature Commun.
 rm(list = ls())
 if(F){ #Execute the code if you have not installed the packages
    install.packages("devtools")
