@@ -3,7 +3,7 @@
 emd_Matlab_20210729.m is the Matlab code for executing causal decomposition for the time series with Moran effects
 (two non-interacting time series driven by the same factors) 
 
-Causal decomposition and eemd functions are from Yang et al. 2018 Nature Commun. and Wang et al. 2014 PhysicaA, respectively
+Causal decomposition and eemd functions are from Yang et al. 2018 Nature Commun. and Wang et al. 2014 Physica A, respectively
 # R code
 Time series data with Moran effects (N1.txt, N2.txt, time_moran.txt) were produced by R script, Moran_model.R
 
