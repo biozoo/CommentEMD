@@ -1,5 +1,5 @@
 % Causal decompostion of moran effect time series
-% Causal decomposition and eemd functions are from Yang et al. 2018 Nature Commu. and Wang et al. 2014 PhysicaA, respectively)
+% Causal decomposition and eemd functions are from Yang et al. 2018 Nature Commun. and Wang et al. 2014 PhysicaA, respectively)
 % load Moran time series data produced in R(Please change the route for dataset and functions before run this code). 
 % Please add the EMD functions deposited in the file, 'causal_decomposition_20180901', to the path (selected folders & subfolders) 
 load 'N1.txt' 
