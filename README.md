@@ -12,3 +12,5 @@ CCM analysis for analyzing time series data with Moran effects (Fig. 1c) and whi
 We also re-analyzed all the examples presented in Yang et al. (2018) Nature Commun. by standard lag-CCM analysis. (Scripts were recorded in 'lag_CCM.R')
 
 Datasets included the folder, Data_files, were all open-accessed and can be downloaded in the links offered by Yang et al. (2018) 
+
+We conducted all the EDM analyses based on rEDM package ver 1.2.3. https://github.com/cran/rEDM/releases/tag/1.2.3
